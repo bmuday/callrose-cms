@@ -1,0 +1,16 @@
+{
+  "name": "callrose_cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cockroachdb": "^1.0.3",
+    "directus": "^10.6.1"
+  }
+}
